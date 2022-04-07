@@ -1,0 +1,21 @@
+body {
+	margin: 0;
+	background-color: #ffffff;
+}
+
+* {
+	font-family: 'Open Sans', sans-serif;
+}
+
+h2 {
+	font-family: 'Open Sans', sans-serif;
+	margin-top: 30px;
+}
+
+.thead {
+	background-color: #f7f7f7;
+}
+
+.d {
+	font-weight: bold;
+}
